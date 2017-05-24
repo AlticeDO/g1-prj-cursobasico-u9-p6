@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mi Peso Ideal</string>
+    <string name="spinnerHolder">Seleccione</string>
+    <string-array name="sexos">
+        <item name="M">Masculino</item>
+        <item name="F">Femenino</item>
+    </string-array>
+</resources>
