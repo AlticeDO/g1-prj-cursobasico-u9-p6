@@ -38,14 +38,14 @@
             android:layout_height="wrap_content"
             android:text="Sexo"
             android:layout_weight="0.2"
-            android:textSize="35sp" />
+            android:textSize="35sp"
+            android:autoText="false" />
 
         <Spinner
             android:layout_weight="1"
             android:layout_width="wrap_content"
             android:layout_height="40dp"
             android:id="@+id/spinnerSexo"
-            android:prompt="@string/spinnerHolder"
             android:entries="@array/sexos"
             />
     </LinearLayout>
